@@ -1,4 +1,5 @@
 //function to format date.
+
 const formatDate = (
     timestamp: Date | string | number,
     format?: Intl.DateTimeFormatOptions,
